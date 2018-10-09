@@ -1,1 +1,1 @@
-Ceci est le texte du fichier 1 avant modification
+Ceci est le texte du fichier 1 après modification
