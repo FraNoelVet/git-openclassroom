@@ -1,0 +1,1 @@
+Ce projet a pour but d'apprendre à utiliser git dans le cadre du cours d'openclassroom
